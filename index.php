@@ -6,11 +6,11 @@
 ?>
 
 <ul>
-  <li><a href="./">Verificar Notas</a></li>
   <li><a href="?a=newalumno">Nuevo Alumno</a></li>
   <li><a href="?a=newclase">Nueva Clase</a></li>
   <li><a href="?a=assignclase">Asignar Clase</a></li>
   <li><a href="?a=newnota">Ingresar Nota</a></li>
+  <li><a href="./">Verificar Notas</a></li>
 </ul>
 
 <?php
