@@ -112,3 +112,4 @@
     $contal->view_notas();
   }
 ?>
+<br><br><br><br>GITHUB: <a href="https://github.com/hrsl294/controlalumnoshrsl">https://github.com/hrsl294/controlalumnoshrsl</a><br><br><br><br>
